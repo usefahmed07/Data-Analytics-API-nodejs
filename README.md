@@ -78,6 +78,7 @@ Json
     "totalNotes": 7
   }
 ]
+
 2️⃣ Posts per Month
 Returns number of posts created each month.
 Copy code
@@ -96,6 +97,7 @@ Json
     "totalPosts": 9
   }
 ]
+
 3️⃣ Filtered Analytics (User or Date)
 You can filter analytics using query parameters.
 Copy code

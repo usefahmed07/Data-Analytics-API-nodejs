@@ -52,7 +52,6 @@ node index.js
 Server will run on:
 Copy code
 
-http://localhost:3000
 # Analytics Functionality
 This API uses MongoDB aggregation pipeline stages such as:
 $match → filter data

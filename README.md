@@ -15,8 +15,6 @@ Express.js
 MongoDB
 Mongoose
 REST API architecture
-# Project Structure
-Copy code
 
 # project-root
 │
